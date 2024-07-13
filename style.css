@@ -1,0 +1,155 @@
+
+.abc{
+    border-radius: 30px !important;
+    background-color: green !important;
+    color: white !important;
+}
+.def{
+    border: none !important;
+}
+.pop{
+    display: flex;
+    flex-direction: row;
+}
+.none{
+    position: absolute;top: 200px;left: 100px;
+}
+ #a1{
+  font-size: 500%;
+  font-weight: bold;
+   color: rgb(13, 160, 13);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ #v1{
+    padding: 9px;
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+}
+h5{
+    color: gray;
+}
+.jack{
+    position: relative;top:150px;left: 700px;
+}
+h6{
+    color: gray;
+    position:absolute ;top: 630px;left: 100px;
+}
+.trust{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 15%;
+    position:absolute ;top: 670px;left: 100px; 
+}
+.ghi{
+    position: absolute;top: 400px;
+}
+.h1{
+    position: absolute;top: 1300px;
+    padding: 80px;
+}
+.p1{
+    font-size: large;
+}
+.star{
+font-size: 1.6rem !important;
+display: flex !important;
+flex-direction: column !important;
+ margin-bottom:500px !important;
+ position: absolute;left: 100px; top: 1330px!important;
+
+}
+.head{
+    display: flex !important;
+    flex-direction: column !important;
+}
+.h3{
+font-size: 5.6rem !important;
+margin-bottom: 1rem !important;
+font-weight: 500 !important;
+}
+.hd{
+display: flex !important;
+font-size: 18px !important;
+font-weight: 500 !important;
+}
+.hdp{
+    color: var(--grey) !important;
+    margin-right: 20px!important;
+    margin-bottom: 4rem !important;
+}
+.hda:hover{
+text-decoration: none !important;
+}
+ .hdah:hover{
+text-decoration:underline !important;
+} 
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.ds{
+    border: 1px solid lightblue;
+    padding: 15px;
+    background-color:whitesmoke;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.ds:hover{
+    background-color: rgb(227, 236, 240);
+    transform: 1.2;
+    transition: 1s;
+}
+.card-text{
+    font-size: 11px !important;
+}
+.u1{
+    position: absolute;top: 1800px;
+    background-color: rgb(16, 85, 81);
+    width: 90%;height:500px;
+    margin-left: 100px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.card5{
+    color: whitesmoke;
+    padding-left: 20px;
+}
+.card1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+    padding-left:20px;
+}
+.card2{
+    font-size: 60px;
+    color:rgb(69, 197, 191);
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 55px;
+    padding-left: 20px;
+}
+.card3{
+    color: white;
+    padding: 20px;
+}
+.card4{
+ position: relative;bottom: 520px;
+float:inline-end;
+}
+.b1{
+    padding: 10px;
+    border-radius:40px;
+    border: 1px solid white;
+    font-weight: 500;
+    color: gray;
+}
+
